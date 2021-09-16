@@ -1,2 +1,2 @@
 # playwrightJs
-Testes com o Playwright em JavaScript
+Testes com o Playwright em Python
